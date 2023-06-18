@@ -1,7 +1,7 @@
 
 # Hand Gesture Recognition using Recurrent Neural Network (RNN)
 
-This repository contains keras and implementations of the two deep learning models for hand gesture recognition presented in the article  [A Comparison of Bidirectional GRU and LSTM for Hand Gesture Recognition Using Leap Motion](https://ieeexplore.ieee.org/document/10023591) here  by Muhammad Saad, Tianbao Yang, Hui Zhou.
+This repository contains keras and implementations of the two deep learning models for hand gesture recognition presented in the article  [A Comparison of Bidirectional GRU and LSTM for Hand Gesture Recognition Using Leap Motion](https://ieeexplore.ieee.org/document/10023591) by Muhammad Saad, Tianbao Yang, Hui Zhou.
 
 
 ## Getting Started
@@ -25,10 +25,5 @@ For more information about dataset [click](https://ieeexplore.ieee.org/document/
 
 
 
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
