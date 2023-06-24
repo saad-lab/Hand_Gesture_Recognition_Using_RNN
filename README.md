@@ -31,7 +31,7 @@ Hand skeletal representations are lightweight and very sparse compared to image 
 
 ![Hand features used in dataset](https://github.com/saad-lab/Hand_Gesture_Recognition_Using_RNN/blob/c63c2c0b3d413f97750a205a86a8d6c253193b71/features.png)
 
-The input to the model is an array of the follwing shape
+The input to the model is an array of the following shape
 
 (samples, timestamps, attributes, )
 
@@ -48,9 +48,9 @@ The notebook will run fine with:
 
 `python 3`
 
-`tensorflow`, `keras`
+`tensorflow` `keras`
 
-Usual pip modules: `nump`, `matplotlib`, `sklearn`, `seaborn`
+Usual pip modules: `sklearn` `nump` `matplotlib` `seaborn`
 
 
 ## Citation
